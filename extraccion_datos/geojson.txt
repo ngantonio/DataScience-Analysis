@@ -1,0 +1,103 @@
+Enter location: Retrieving http://py4e-data.dr-chuck.net/json?address=South+Federal+University&key=42
+Retrieved 2268 characters
+{
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "10",
+                    "short_name": "10",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "W 35th St",
+                    "short_name": "W 35th St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Douglas",
+                    "short_name": "Douglas",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Chicago",
+                    "short_name": "Chicago",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Cook County",
+                    "short_name": "Cook County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Illinois",
+                    "short_name": "IL",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "60616",
+                    "short_name": "60616",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "10 W 35th St, Chicago, IL 60616, USA",
+            "geometry": {
+                "location": {
+                    "lat": 41.8348731,
+                    "lng": -87.6270059
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 41.8362220802915,
+                        "lng": -87.6256569197085
+                    },
+                    "southwest": {
+                        "lat": 41.8335241197085,
+                        "lng": -87.62835488029151
+                    }
+                }
+            },
+            "place_id": "ChIJD6jp03IsDogRGm_7Gmbky5E",
+            "plus_code": {
+                "compound_code": "R9MF+W5 Chicago, Illinois, United States",
+                "global_code": "86HJR9MF+W5"
+            },
+            "types": [
+                "establishment",
+                "point_of_interest",
+                "university"
+            ]
+        }
+    ],
+    "status": "OK"
+}
+lat 41.8348731 lng -87.6270059
+10 W 35th St, Chicago, IL 60616, USA
+Enter location: 
